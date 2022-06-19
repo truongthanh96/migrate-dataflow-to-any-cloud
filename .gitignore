@@ -7,3 +7,6 @@
 .idea/misc.xml
 .idea/runConfigurations.xml
 .idea/vcs.xml
+/flink/
+*.class
+/beam-examples/
